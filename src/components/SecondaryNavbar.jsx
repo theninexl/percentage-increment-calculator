@@ -11,7 +11,7 @@ export const SecNavbar = () => {
               Calculadoras
             </div>
             <div className="bi-c-navbar__center"> 
-             Aumento porcentaje un nombre muy largo que no veas lorem
+             Aumento porcentaje
             </div>
           </nav>
         </div>
