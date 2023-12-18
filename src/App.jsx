@@ -46,7 +46,8 @@ function App() {
               </div>
             </div>
           </div>
-          <p className='bi-u-text-base'>Esta calculadora está creada por <a href="https://www.linkedin.com/in/theninexl/" target="_blank">Noé Alegría</a>, utilizando React. El código puede encontrarse en <a href="https://github.com/theninexl/percentage-increment-calculator" target="_blank">Github</a> y fue actualizada por última vez el 15/12/2023</p>
+          <p className='bi-u-text-base'>Esta calculadora está creada por <a href="https://www.linkedin.com/in/theninexl/" target="_blank">Noé Alegría</a>, utilizando React. El código puede encontrarse en <a href="https://github.com/theninexl/percentage-increment-calculator" target="_blank" rel="noreferrer">Github</a> y fue actualizada por última vez el 15/12/2023. </p>
+          <p><a href="https://www.buymeacoffee.com/elarcadenoe" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style={{height:'60px',width:'217px'}} /></a></p>
         </SimpleCol>
       </ColsContainer>
       <ColsContainer>

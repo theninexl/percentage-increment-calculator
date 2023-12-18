@@ -147,7 +147,7 @@ body {
 }
 
 .bi-u-text-link, a {
-  color: #434656;
+  color: #0081FF;
   text-decoration: none;
 }
 .bi-u-text-link:hover, a:hover {
@@ -271,31 +271,6 @@ h1 {
     line-height: 4.8rem;
     font-family: "IBM Plex Sans Condensed", sans-serif;
     font-weight: 500;
-    font-stretch: normal;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
-  .bi-u-text-link, a {
-    color: #434656;
-    text-decoration: none;
-  }
-  .bi-u-text-link:hover, a:hover {
-    cursor: pointer;
-    text-decoration: underline;
-  }
-  .bi-u-text-link__active {
-    color: #0081FF;
-  }
-  .bi-u-text-link__inactive {
-    color: #CECECE;
-  }
-  .bi-u-text-link__inactive:hover {
-    cursor: auto;
-    text-decoration: none;
-  }
-  strong {
-    font-family: "IBM Plex Sans", sans-serif;
-    font-weight: 700;
     font-stretch: normal;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
